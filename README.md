@@ -2,6 +2,8 @@
 
 I've created this repo to gain understanding on how the `SessionIdentity` works in the context of `sts:AssumeRole` operation.
 
+You can learn more about the concept I'm trying to grasp [in this video](https://www.youtube.com/watch?v=IwhFqETc4v8).
+
 ## Deployment
 
 - Install necessary Go dependencies
